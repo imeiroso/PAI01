@@ -6,5 +6,5 @@ En la siguiente tarea se procede a crear un repositorio en GitHub. Agregar un ar
 readme y un archivo programado en Python que muestre el mensaje **hola mundo**
 
 ## Tareas realizadas
-1. Crear un archvio README.
+1. Crear un archivo README.
 2. Crear un archivo Python.
